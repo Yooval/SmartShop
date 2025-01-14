@@ -10,7 +10,7 @@ The website is built using Spring Boot for server side and Angular, Typescript a
 
   - **Login Page**: Allows users to log in with their Okta credentials in order to see all their transactions.
   - **Books/Coffee Mags/Mouse pads/Luggage Tags  Pages**: Different deparments in store where you can view all product and add them to cart
-  - **Search Button**: Each user can view their applications (non-logged-in users can view admin applications). Logged-in users can update or delete their own applications. Additionally, all users can filter jobs by status, type, or keywords (e.g., searching for "goo" will show "Google"). Jobs can be sorted by dates or alphabetically, in ascending or descending order.
+  - **Search Button**: Allow users to filter products by keywords. 
   - **Logout/ Member/ Orders Buttons (logged users only)**: buttons that allows you to logout, check discounts for members and view all your orders.
   - **Cart icon**: direct you to a checkout form.
   
