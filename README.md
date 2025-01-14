@@ -21,5 +21,5 @@ The server side handles two main responsibilities:
 
 ### Installation:
 - open the Server-Side and run it from file **SpringBootEcommerceApplication**.
-- open the Client-Side and run the following commands in your terminal: **npm start -- --configuration=qa**. You should see the app running on https://localhost:4200.
+- open the Client-Side and run the command **npm start -- --configuration=qa**. You should see the app running on https://localhost:4200.
 
