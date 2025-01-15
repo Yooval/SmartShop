@@ -20,6 +20,7 @@ The server side handles two main responsibilities:
 - Handles checkout and payments: Processes orders and validates payment information.
 
 ### Installation:
+- create yout okta acount for registration [here](https://developer.okta.com/login/).
 - open the Server-Side and run it from file **SpringBootEcommerceApplication**.
 - open the Client-Side and run the command **npm start -- --configuration=qa**. You should see the app running on https://localhost:4200.
 
